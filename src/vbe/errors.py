@@ -1,0 +1,2 @@
+class Ambiguous(Exception):
+    pass
